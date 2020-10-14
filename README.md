@@ -5,4 +5,4 @@ of times each day occurs in the given month.
 
 ## Demo
 
-![demo](./_static/daysinmonth.mp4)
+![demo](./docs/source/_static/daysinmonth.mp4)
